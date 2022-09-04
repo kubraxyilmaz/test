@@ -4,7 +4,8 @@ using namespace std;
 int main() {
 
   int n, reversed_number = 0, remainder;
-
+  string secret="hitandgoalsyesone"
+  string password:12334342
   cout << "Enter an integer: ";
   cin >> n;
   tk.greendigital
